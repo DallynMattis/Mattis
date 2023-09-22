@@ -1,3 +1,6 @@
 [user]
 	email = dallynmattis@gmail.com
-	name = Whystam
+    name = Mattis
+
+[core]
+	editor = nvim
